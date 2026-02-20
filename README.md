@@ -53,3 +53,4 @@ A **Python script** to automatically organize the contents of any folder into st
 1. Clone the repository:  
 
 ```bash
+https://github.com/AdhiXShresthXSrivastava/File-Orgranizer.git
